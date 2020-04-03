@@ -11,7 +11,7 @@ pool:
 
 # piplines-> Stages-> Jobs-> Tasks (steps)
 
-Jobs:
+jobs:
 - Job:Job1
   steps:
   - script: echo Hello, World rajesh!
